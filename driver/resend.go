@@ -1,4 +1,4 @@
-package mailer
+package driver
 
 type ResendMailer struct {
 	config *MailConfig
